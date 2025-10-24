@@ -177,13 +177,11 @@ Focus on particular plant components by using path prefixes:
 
 ## Contributing
 
-When modifying or extending the codebase:
-
-1. **Preserve data precision** - always use scientific notation for numerical values
-2. **Maintain hierarchy** - respect the equipment path structure 
-3. **Handle missing data** - many variables may have empty units or bounds
-4. **Test with real data** - use actual simulation files for validation
-5. **Follow naming conventions** - use the established `Trials/` and `Corrections/` directory patterns
+We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on:
+- Development standards and code style
+- Testing procedures with simulation data
+- Pull request process
+- Areas where contributions are needed
 
 ## Troubleshooting
 
@@ -207,8 +205,9 @@ When modifying or extending the codebase:
 
 ## License
 
-[Add your license information here]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-[Add contact information or links to documentation]
+- **Email**: elio.margiotta@epfl.ch
+- **GitHub**: [@ElioMargiotta](https://github.com/ElioMargiotta)
